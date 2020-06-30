@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "RobotoB";
+  src: url("/fonts/Roboto-Black.ttf");
+}
+@font-face {
+  font-family: "Roboto";
+  src: url("/fonts/Roboto-Regular.ttf");
+}
+
+
+body{
+  font-family: "Roboto"
+}
+p{
+  color:red;
+}

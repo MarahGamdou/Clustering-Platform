@@ -1,0 +1,18 @@
+.
+└── mysite
+    ├── __pycache__
+    ├── static
+    │   ├── Algorithmes
+    │   │   ├── dbscan
+    │   │   │   └── etapeParEtape
+    │   │   ├── kMeans
+    │   │   │   └── etapeParEtape
+    │   │   └── regroupementHierarchique
+    │   │       └── etapeParEtape
+    │   ├── fonts
+    │   ├── images
+    │   ├── script
+    │   └── style
+    └── templates
+
+15 directories
